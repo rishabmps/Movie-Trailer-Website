@@ -1,5 +1,10 @@
 # Movie-Trailer-Website
 
-Run fresh_tomatoes.py to generate the fresh_tomatoes.html and then open the html file in the browser.
+To launch the application this application:
+- Open the terminal/cmd
+- Type ` python fresh_tomatoes.py ` to generate the html file in same folder.
+- Open html file to view the result.
+
 
 Software required: python 2.7
+
