@@ -1,8 +1,8 @@
 # Movie-Trailer-Website
 
-To launch the application this application:
+To launch the application :
 - Open the terminal/cmd
-- Type ` python fresh_tomatoes.py ` to generate the html file in same folder.
+- Type ` python entertainment_center.py ` to generate the html file in same folder.
 - Open html file to view the result.
 
 
